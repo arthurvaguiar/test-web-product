@@ -31,3 +31,7 @@ Exemplo: System.out.println("insert into PRODUTOS
 4) Observações:
 Não será aceito uso do frameworks que gerem códigos para o
 desenvolvedor. (ex spring).
+
+
+
+![image](https://github.com/user-attachments/assets/75344c1d-4901-41e1-b820-322610c735b8)
